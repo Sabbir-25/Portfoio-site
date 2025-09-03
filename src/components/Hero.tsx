@@ -29,7 +29,7 @@ const Hero = () => {
             <h1 className='font-poppins font-bold text-4xl md:text-5xl lg:text-6xl text-foreground mb-6 leading-tight'>
               Hi, I'm{" "}
               <span className='bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent'>
-                Istiak Ahmed
+                Sabbir Mahmud
               </span>
             </h1>
 
