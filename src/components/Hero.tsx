@@ -1,6 +1,7 @@
 import { ArrowDown, Github, Linkedin, Mail } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import heroPortrait from "@/assets/hero-portrait.jpg";
+import heroPortrait from "../assets/hero-portrait.jpg";
+
 
 const Hero = () => {
   const scrollToProjects = () => {
