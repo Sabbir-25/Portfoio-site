@@ -39,7 +39,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="font-poppins font-bold text-2xl text-primary">
-            IA
+            SM
           </div>
 
           {/* Desktop Navigation */}
